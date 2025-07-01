@@ -1,0 +1,40 @@
+123
+Property index 109 ID is 7075
+Property ID: 7075
+Starting server on port 8128
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Simulation complete
+# estimated: 1
+# unsuccessful: 0
+# exceptions: 0
+Results dumped to prop-0109.pkl
+Results saved to prop-0109.json

@@ -1,0 +1,20 @@
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/distributed/node.py:187: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44451 instead
+  warnings.warn(
+123
+Property index 80 ID is 6843
+Property ID: 6843
+Starting server on port 8099
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+slurmstepd: error: *** JOB 40005395 ON hpc3-gpu-24-05 CANCELLED AT 2025-06-30T23:51:29 DUE TO PREEMPTION ***

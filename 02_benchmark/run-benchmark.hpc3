@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH -J benchmark
+#SBATCH --array=0-122
+#SBATCH -p free-gpu
+#SBATCH -t 08:00:00
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --account dmobley_lab_gpu
+#SBATCH --export ALL
+#SBATCH --mem=16gb
+#SBATCH --constraint=fastscratch
+#SBATCH --output slurm-%x.%A-%a.out
+#SBATCH --gres=gpu:1
+
+
+. ~/.bashrc
+
+# Use the right conda environment
+conda activate evaluator-050
+
+
+python benchmark.py             \
+    -i  "../training-properties-with-water.json"   \
+    -p  $SLURM_ARRAY_TASK_ID    \
+    -ff "openff-2.2.1.offxml"   \
+    -o  output                  \
+    -r  1                       \
+    -s  "output/stored_data"    \
+    -bp 8019                    \
+    -of request-options.json

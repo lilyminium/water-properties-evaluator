@@ -1,0 +1,23 @@
+123
+Property index 79 ID is 6728
+Property ID: 6728
+Starting server on port 8098
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+slurmstepd: error: *** JOB 40005383 ON hpc3-gpu-24-06 CANCELLED AT 2025-06-30T23:53:00 DUE TO PREEMPTION ***

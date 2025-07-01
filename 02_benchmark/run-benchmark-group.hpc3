@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH -J benchmark-group
+#SBATCH -p standard
+#SBATCH -t 08:00:00
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --account dmobley_lab
+#SBATCH --export ALL
+#SBATCH --mem=16gb
+#SBATCH --constraint=fastscratch
+#SBATCH --output slurm-%x.%A.out
+
+
+. ~/.bashrc
+
+# Use the right conda environment
+conda activate evaluator-050
+
+
+python benchmark-group.py             \
+    -i  "../training-properties-with-water.json"   \
+    -ff "openff-2.2.1.offxml"   \
+    -o  output                  \
+    -r  2                       \
+    -s  "output/stored_data"    \
+    -p 8019                     \
+    --extra-script-option       "--gpus-per-task=1"                     \
+    --queue                     "gpu"                              \
+    --n-gpu                     23                                      \
+    -of request-options.json

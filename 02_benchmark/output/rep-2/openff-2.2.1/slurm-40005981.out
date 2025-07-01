@@ -1,0 +1,22 @@
+2025-07-01 01:32:52,642 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.240.58.119:38789'
+2025-07-01 01:32:53,481 - distributed.worker - INFO -       Start worker at:  tcp://10.240.58.119:44237
+2025-07-01 01:32:53,481 - distributed.worker - INFO -          Listening to:  tcp://10.240.58.119:44237
+2025-07-01 01:32:53,481 - distributed.worker - INFO -           Worker name:            SLURMCluster-47
+2025-07-01 01:32:53,481 - distributed.worker - INFO -          dashboard at:        10.240.58.119:39283
+2025-07-01 01:32:53,481 - distributed.worker - INFO - Waiting to connect to:  tcp://10.240.59.103:33741
+2025-07-01 01:32:53,481 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:32:53,481 - distributed.worker - INFO -               Threads:                          1
+2025-07-01 01:32:53,481 - distributed.worker - INFO -                Memory:                   3.73 GiB
+2025-07-01 01:32:53,482 - distributed.worker - INFO -       Local Directory: /dfs9/dmobley-lab/lilyw7/water-properties-evaluator/02_benchmark/output/rep-2/openff-2.2.1/dask-worker-space/dask-scratch-space/worker-hok3mwkq
+2025-07-01 01:32:53,482 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:32:53,836 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-07-01 01:32:53,836 - distributed.worker - INFO -         Registered to:  tcp://10.240.59.103:33741
+2025-07-01 01:32:53,836 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:32:53,837 - distributed.core - INFO - Starting established connection to tcp://10.240.59.103:33741
+2025-07-01 01:32:59,040 - distributed.core - INFO - Event loop was unresponsive in Worker for 5.10s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2025-07-01 01:33:29,706 - distributed.worker - INFO - Stopping worker at tcp://10.240.58.119:44237. Reason: scheduler-remove-worker
+2025-07-01 01:33:29,708 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.240.58.119:38789'. Reason: scheduler-remove-worker
+2025-07-01 01:33:29,708 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-07-01 01:33:29,713 - distributed.nanny - INFO - Worker closed
+2025-07-01 01:33:29,713 - distributed.core - INFO - Connection to tcp://10.240.59.103:33741 has been closed.
+slurmstepd: error: *** JOB 40005981 ON hpc3-gpu-18-03 CANCELLED AT 2025-07-01T01:33:29 ***

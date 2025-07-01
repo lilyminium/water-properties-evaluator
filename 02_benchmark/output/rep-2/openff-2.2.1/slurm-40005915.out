@@ -1,0 +1,19 @@
+2025-07-01 01:23:45,122 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.240.58.63:46197'
+2025-07-01 01:23:46,047 - distributed.worker - INFO -       Start worker at:   tcp://10.240.58.63:46131
+2025-07-01 01:23:46,047 - distributed.worker - INFO -          Listening to:   tcp://10.240.58.63:46131
+2025-07-01 01:23:46,047 - distributed.worker - INFO -           Worker name:            SLURMCluster-28
+2025-07-01 01:23:46,047 - distributed.worker - INFO -          dashboard at:         10.240.58.63:37011
+2025-07-01 01:23:46,047 - distributed.worker - INFO - Waiting to connect to:  tcp://10.240.59.103:33741
+2025-07-01 01:23:46,047 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:23:46,047 - distributed.worker - INFO -               Threads:                          1
+2025-07-01 01:23:46,047 - distributed.worker - INFO -                Memory:                   3.73 GiB
+2025-07-01 01:23:46,047 - distributed.worker - INFO -       Local Directory: /dfs9/dmobley-lab/lilyw7/water-properties-evaluator/02_benchmark/output/rep-2/openff-2.2.1/dask-worker-space/dask-scratch-space/worker-apgwfcuv
+2025-07-01 01:23:46,047 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:23:46,411 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-07-01 01:23:46,411 - distributed.worker - INFO -         Registered to:  tcp://10.240.59.103:33741
+2025-07-01 01:23:46,412 - distributed.worker - INFO - -------------------------------------------------
+2025-07-01 01:23:46,412 - distributed.core - INFO - Starting established connection to tcp://10.240.59.103:33741
+2025-07-01 01:23:46,623 - distributed.worker - INFO - Stopping worker at tcp://10.240.58.63:46131. Reason: scheduler-remove-worker
+2025-07-01 01:23:46,625 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.240.58.63:46197'. Reason: scheduler-remove-worker
+2025-07-01 01:23:46,625 - distributed.worker - INFO - Removing Worker plugin shuffle
+slurmstepd: error: *** JOB 40005915 ON hpc3-gpu-16-05 CANCELLED AT 2025-07-01T01:23:46 ***

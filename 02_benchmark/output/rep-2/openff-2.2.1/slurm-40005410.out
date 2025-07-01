@@ -1,0 +1,127 @@
+2025-06-30 23:51:04,168 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.240.58.58:43075'
+2025-06-30 23:51:05,101 - distributed.worker - INFO -       Start worker at:   tcp://10.240.58.58:39401
+2025-06-30 23:51:05,101 - distributed.worker - INFO -          Listening to:   tcp://10.240.58.58:39401
+2025-06-30 23:51:05,101 - distributed.worker - INFO -           Worker name:             SLURMCluster-4
+2025-06-30 23:51:05,101 - distributed.worker - INFO -          dashboard at:         10.240.58.58:40855
+2025-06-30 23:51:05,101 - distributed.worker - INFO - Waiting to connect to:  tcp://10.240.59.103:33741
+2025-06-30 23:51:05,101 - distributed.worker - INFO - -------------------------------------------------
+2025-06-30 23:51:05,101 - distributed.worker - INFO -               Threads:                          1
+2025-06-30 23:51:05,101 - distributed.worker - INFO -                Memory:                   3.73 GiB
+2025-06-30 23:51:05,101 - distributed.worker - INFO -       Local Directory: /dfs9/dmobley-lab/lilyw7/water-properties-evaluator/02_benchmark/output/rep-2/openff-2.2.1/dask-worker-space/dask-scratch-space/worker-8_fsr9j2
+2025-06-30 23:51:05,101 - distributed.worker - INFO - -------------------------------------------------
+2025-06-30 23:51:05,577 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-06-30 23:51:05,577 - distributed.worker - INFO -         Registered to:  tcp://10.240.59.103:33741
+2025-06-30 23:51:05,577 - distributed.worker - INFO - -------------------------------------------------
+2025-06-30 23:51:05,578 - distributed.core - INFO - Starting established connection to tcp://10.240.59.103:33741
+2025-06-30 23:51:12,257 - distributed.core - INFO - Event loop was unresponsive in Worker for 6.64s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+Warning: Cannot perform Hydrogen sampling with GPU-Omega: GPU-Omega disabled.
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/uncertainties/core.py:1024: UserWarning: Using UFloat objects with std_dev==0 may give unexpected results.
+  warn("Using UFloat objects with std_dev==0 may give unexpected results.")
+2025-07-01 01:34:25,256 - distributed.worker - INFO - Stopping worker at tcp://10.240.58.58:39401. Reason: scheduler-close
+slurmstepd: error: *** JOB 40005410 ON hpc3-gpu-16-00 CANCELLED AT 2025-07-01T01:34:25 ***
+2025-07-01 01:34:25,257 - distributed.batched - INFO - Batched Comm Closed <TCP (closed) Worker->Scheduler local=tcp://10.240.58.58:59408 remote=tcp://10.240.59.103:33741>
+Traceback (most recent call last):
+  File "/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/distributed/comm/tcp.py", line 297, in write
+    raise StreamClosedError()
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/distributed/batched.py", line 115, in _background_send
+    nbytes = yield coro
+             ^^^^^^^^^^
+  File "/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/tornado/gen.py", line 769, in run
+    value = future.result()
+            ^^^^^^^^^^^^^^^
+  File "/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/distributed/comm/tcp.py", line 307, in write
+    convert_stream_closed_error(self, e)
+  File "/data/homezvol3/lilyw7/miniforge3/envs/evaluator-050/lib/python3.11/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Worker->Scheduler local=tcp://10.240.58.58:59408 remote=tcp://10.240.59.103:33741>: Stream is closed
+2025-07-01 01:34:25,263 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.240.58.58:43075'. Reason: scheduler-close
+2025-07-01 01:34:25,264 - distributed.worker - INFO - Removing Worker plugin shuffle
